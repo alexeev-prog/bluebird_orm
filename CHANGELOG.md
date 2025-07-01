@@ -1,3 +1,21 @@
+commit d7f74182e81a01be6f217accabff9c6c8b7c4510
+Author: Alexeev Bronislav <alexeev.dev@mail.ru>
+Date:   Wed Jul 2 06:39:38 2025 +0700
+
+    Create pylint.yml
+
+commit 9f1aaac80a1515d16f60b9a698b7fb8f17aeea70
+Author: Alexeev Bronislav <alexeev.dev@mail.ru>
+Date:   Wed Jul 2 06:38:38 2025 +0700
+
+    Create python-package.yml
+
+commit 8c250de67a91ec10314c3ee9fff5344f294fb38e
+Author: Alexeev Bronislav <alexeev.dev@mail.ru>
+Date:   Wed Jul 2 06:38:30 2025 +0700
+
+    update dependencies and add tests
+
 commit bfecdf72bd1b88d2727f2bcc3cd1d8674c36a6a6
 Author: Alexeev Bronislav <alexeev.dev@mail.ru>
 Date:   Wed Jul 2 06:35:56 2025 +0700

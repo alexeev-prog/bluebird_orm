@@ -2,7 +2,7 @@ name: docs
 
 on:
   push:
-    branches: [main] # branch to trigger deployment
+    branches: [main]
 
 jobs:
   pages:
@@ -20,7 +20,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: '3.12'  # Укажите версию Python, которую вы хотите использовать
+        python-version: '3.12'
 
     - name: Install dependencies
       run: |

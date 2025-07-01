@@ -6,7 +6,7 @@ readme = "README.md"
 authors = [
     { name = "Alexeev Bronislav", email = "alexeev.dev@mail.ru" }
 ]
-requires-python = ">=3.11"
+requires-python = ">=3.9"
 dependencies = [
     "psycopg2-binary>=2.9.10",
     "requests>=2.32.4",
