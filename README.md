@@ -41,7 +41,7 @@
 ## Check Other My Projects
 
  + [pyEchoNext](https://github.com/alexeev-prog/pyEchoNext) - EchoNext is a lightweight, fast and scalable web framework for Python 
- + [RTFM](https://github.com/alexeev-prog/rtfm](https://github.com/alexeev-prog/rtfm) - blazing fast util for searching manuals & docs 
+ + [RTFM](https://github.com/alexeev-prog/rtfm) - blazing fast util for searching manuals & docs 
  + [libnumerixpp](https://github.com/alexeev-prog/libnumerixpp) - a Powerful C++ Library for High-Performance Numerical Computing
  + [flexpasm](https://github.com/alexeev-prog/flexpasm) - python library for writing assembly code through object abstractions. For Linux FASM. 
  + [hermes langlib](https://github.com/alexeev-prog/hermes_langlib) - Fast, optimized and high-performance, high-load oriented library for i18n and l10n 

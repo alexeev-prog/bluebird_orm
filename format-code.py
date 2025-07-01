@@ -105,6 +105,7 @@ def main():
                 os.system(f"{RUFF} check {root}/{file} --fix")
                 os.system(f"{RUFF} format {root}/{file}")
                 os.system(f"flake8 {file} --select=WPS")
+                os.system(f"pylint {file}")
                 print(f"{GREEN}Formatting completed successfully: {root}/{file}{NC}")
 
     os.system("ruff clean")
