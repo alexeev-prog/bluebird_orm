@@ -38,6 +38,9 @@
  > [!CAUTION]
 > At the moment, BlueBird is under active development, many things may not work, and this version is not recommended for use (all at your own risk)
 
+## Specification
+You can see [BlueBird ORM Specification](./SPECS.md).
+
 ## Check Other My Projects
 
  + [pyEchoNext](https://github.com/alexeev-prog/pyEchoNext) - EchoNext is a lightweight, fast and scalable web framework for Python 
